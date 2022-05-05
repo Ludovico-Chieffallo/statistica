@@ -1,0 +1,24 @@
+Per eseguire la deviazione standard abbiamo bisogno di 2 formule fondamentali : LA MEDIA E LA VARIANZA
+
+1.) LA MEDIA si calcola intuitivamente con la sommatoria di tutti i casi presi in analisi diviso i casi totali
+
+2.) LA VARIANZA si calcola sommando i valori i risultati derivanti dall'operazione: (caso iniziale - la media di tutti i casi)^2 tutto diviso il numero totale dei casi
+
+3.) LA DEVIAZIONE STANDARD non è nient'altro che la radice quadrata della VARIANZA
+
+
+FACCIAMO UN ESEMPIO:
+
+-ABBIAMO UN CAMPIONE DI 6 STUDENTI CHE HANNO OTTENTUTO I SEGUENTI VOTI : 
+X1=5
+X2=6
+X3=6
+X4=5
+X5=4
+X6=8
+
+-LA MEDIA LA POSSIAMO CALCOLARE FACILMENTE FACENDO: 5+6+6+5+4+8 / 6 = 5,667 = 5,7
+-LA VARIANZA LA CALCOLIAMO CON LA FORMULA SOPRA ELENCATA QUINDI SARÀ: 2(5 - 5,7) ^2 + 2(6 - 5,7)^2 + (4 - 5,7)^2 + (8 - 5,7)^2 / 6 = 1,56
+-LA DEVIAZIONE STANDARD È LA RADICE QUADRATA DELLA VARIANZA QUINDI: RAD.QUADR (1,56)= 1,25
+
+QUESTO RISULTATO CI STA DICENDO CHE LA VOTAZIONE MEDIA DELLA CLASSE è DI 5,7 CON UNA DEVIAZIONE STANDARD DI +/- 1,25
